@@ -37,4 +37,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* team-g-8am (manleym@byui.edu)
+* team-g-8am ( ADD EMAIL OR SLACK ADDRESS)
