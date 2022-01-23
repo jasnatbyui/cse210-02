@@ -37,4 +37,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* team-g-8am ( ADD EMAIL OR SLACK ADDRESS)
+* team-g-8am (Slack - byui-cse210-22w-6)
