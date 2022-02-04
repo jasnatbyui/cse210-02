@@ -24,5 +24,8 @@ class Card:
 
         self.value_card = self.value_card_2
 
+
+"""comment goes here"""
+
         
         
