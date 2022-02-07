@@ -38,7 +38,7 @@ root                    (project root folder)
 ## Authors
 ---
 * team-g-8am (Slack - byui-cse210-22w-6)
-Amon Brollo (amonbrollo@gmail.com)
-Jason McLaughlin
-Kyla Papa
-Isiakpone Chuks
+* Amon Brollo (amonbrollo@gmail.com)
+* Jason McLaughlin
+* Kyla Papa
+* Isiakpone Chuks
